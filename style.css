@@ -3,12 +3,12 @@ body {
 }
 
 .menu-principal {
-    
+    display: flex;
     position: relative;
     margin: 0 auto;
     width: auto;
 }
 
 .logo-principal {
-    width: 40%;
+    width: 80%;
 }
