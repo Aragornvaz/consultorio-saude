@@ -5,9 +5,7 @@ body {
 .menu-principal {
     display: flex;
     position: relative;
-    margin: 0 auto;
-    width: auto;
-}
+    text-align: center;
 
 .logo-principal {
     width: 50%;
