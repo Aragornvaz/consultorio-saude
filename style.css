@@ -3,7 +3,7 @@ body {
 }
 
 .menu-principal {
-    display: flex;
+    display: block;
     position: relative;
     text-align: center;
 
